@@ -4,3 +4,6 @@ Initially, I will use MySQL to get to know the data a bit by performing basic qu
 Here is a link to my Tableau Dashboard:
 
 https://prod-apnortheast-a.online.tableau.com/#/site/harshprojects/workbooks/160676?:origin=card_share_link
+
+This is the link to my Tableau Public Profile:
+https://public.tableau.com/profile/harsh.kondkar
